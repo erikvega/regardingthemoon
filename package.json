@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "engines": {
-    "node": "12.18.2"
+    "node": "12.x"
   },
   "dependencies": {
     "adjectives": "^1.0.2",
